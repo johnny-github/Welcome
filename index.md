@@ -1,5 +1,5 @@
-![Image1](https://johnny-github.github.io/website/monadnock_hike.jpg)
+![Image1](https://johnny-github.github.io/welcome/monadnock_hike.jpg)
 
-![Image2](https://johnny-github.github.io/website/summit.jpg)
+![Image2](https://johnny-github.github.io/welcome/summit.jpg)
 
-![Image3](https://johnny-github.github.io/website/monadnock_weird_tree.jpg)
+![Image3](https://johnny-github.github.io/welcome/monadnock_weird_tree.jpg)
